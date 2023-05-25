@@ -4,8 +4,8 @@ This repository contains the source code for Fanatico auction smart contracts (L
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installation)
 - [Usage](#usage)
     - [Compile Contracts](#compile-contracts)
     - [Run Tests](#run-tests)
